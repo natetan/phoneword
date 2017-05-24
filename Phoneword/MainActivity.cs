@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace Phoneword {
 	
-	[Activity(Label = "Phoneword", MainLauncher = true)]
+	[Activity(Label = "Phone Word", MainLauncher = true)]
 
 	public class MainActivity : Activity {
 		
